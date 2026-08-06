@@ -32,6 +32,7 @@ TestResults/
 *.sln.docstates
 *.dbmdl
 *.jfm
+.vscode/
 
 # JetBrains Rider
 .idea/
